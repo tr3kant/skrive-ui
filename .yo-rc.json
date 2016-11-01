@@ -1,0 +1,17 @@
+{
+  "generator-plugin-wp": {
+    "name": "Skrive UI",
+    "homepage": "http://webdevstudios.com",
+    "description": "A radical new plugin for WordPress!",
+    "version": "0.0.0",
+    "author": "WebDevStudios",
+    "authoremail": "contact@webdevstudios.com",
+    "authorurl": "http://webdevstudios.com",
+    "license": "GPLv2",
+    "slug": "skrive-ui",
+    "classname": "Skrive_UI",
+    "classprefix": "Skrive_UI_",
+    "prefix": "skrive_ui",
+    "year": 2016
+  }
+}

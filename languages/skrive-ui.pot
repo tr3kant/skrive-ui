@@ -1,0 +1,132 @@
+# Copyright (C) 2016 WebDevStudios
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Skrive UI 0.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/skrive-ui\n"
+"POT-Creation-Date: 2016-11-01 11:07:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: includes/shortcodes/class-facebook.php:9
+msgid "Facebook"
+msgstr ""
+
+#: includes/shortcodes/class-facebook.php:13
+#: includes/shortcodes/class-youtube.php:15
+msgid "URL"
+msgstr ""
+
+#: includes/shortcodes/class-facebook.php:16
+msgid "Full URL to the Facebook Post or Video"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:9
+msgid "Image"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:13
+msgid "Choose Attachment"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:17
+#: includes/shortcodes/class-image.php:18
+msgid "Select Image"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:21
+msgid "Alt"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:25
+msgid "Alt text for the image"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:28
+msgid "Caption"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:32
+msgid "Caption for the image"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:35
+msgid "Style"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:40
+msgid "Default"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:41
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:42
+msgid "Parallax"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:43
+msgid "Small"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:47
+msgid "Link to"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:52
+msgid "None (no link)"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:53
+msgid "Link to attachment file"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:54
+msgid "Link to file"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:55
+#: includes/shortcodes/class-image.php:59
+msgid "Custom link"
+msgstr ""
+
+#: includes/shortcodes/class-image.php:62
+msgid "URL to link to (if above link is \"custom\")"
+msgstr ""
+
+#: includes/shortcodes/class-youtube.php:11
+msgid "YouTube"
+msgstr ""
+
+#: includes/shortcodes/class-youtube.php:18
+msgid "Full YouTube URL"
+msgstr ""
+
+#: skrive-ui.php:245
+msgid ""
+"Skrive UI is missing requirements and has been <a "
+"href=\"%s\">deactivated</a>. Please make sure all requirements are "
+"available."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Skrive UI"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://webdevstudios.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A radical new plugin for WordPress!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WebDevStudios"
+msgstr ""
